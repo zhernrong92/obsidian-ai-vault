@@ -1,4 +1,15 @@
-# Obsidian workspace files (personal to each user)
+# Obsidian workspace (personal to each user, changes constantly)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
+
+# Obsidian cache and plugins (regenerated automatically)
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+.DS_Store
+Thumbs.db
+
+# Smart connections and other plugin caches
+.smart-connections/
+.obsidian/.hotreload
