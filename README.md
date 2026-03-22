@@ -37,6 +37,20 @@ A ready-to-use Obsidian vault for software developers, designed to work with **C
 | Person | Role, contact info, notes, 1:1 log |
 | Idea | Quick capture for raw ideas |
 
+## Slash Commands
+
+Type `/` in Claude Code to use these shortcuts:
+
+| Command | What it does |
+|---------|-------------|
+| `/meeting` | Create a meeting note — asks for name, attendees |
+| `/daily` | Create or review today's daily note |
+| `/idea` | Quick capture an idea to Inbox |
+| `/add-explore` | Append to your AI Tech to Explore list |
+| `/person` | Create a new person page |
+| `/project` | Create a new project page |
+| `/review` | Scan vault for overdue/upcoming items and summarise |
+
 ## Using with Claude Code
 
 Open a terminal in your vault directory and start Claude Code. Just talk naturally:

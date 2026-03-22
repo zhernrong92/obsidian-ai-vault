@@ -1,0 +1,1 @@
+Do a quick review of my vault. Read today's daily note, check for any overdue or upcoming action items across `Meetings/`, `Projects/`, and `Daily/`. Summarise what needs attention today and what's coming up this week.

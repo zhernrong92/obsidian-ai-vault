@@ -1,0 +1,1 @@
+Create a new project page in `Projects/` using the Project template. Ask me for the project name, then ask what I know about it so far — overview, goals, people involved, links. Whatever I have is fine, can fill in the rest later.

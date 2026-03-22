@@ -1,0 +1,1 @@
+Create a new person page in `People/` using the Person template. Ask me for their name, role, and team. Also ask if there's anything I want to note about them.

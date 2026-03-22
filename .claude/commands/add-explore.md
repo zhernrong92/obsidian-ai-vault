@@ -1,0 +1,1 @@
+Add a new entry to `Inbox/AI Tech to Explore.md`. Ask me for the topic name and optional source. Append it to the table with today's date and increment the row number.

@@ -1,0 +1,1 @@
+Create a meeting note in `Meetings/` for today using the Meeting Note template. Ask me for the meeting name and attendees, then I'll tell you what was discussed.

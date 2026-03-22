@@ -1,0 +1,1 @@
+Capture a quick idea in `Inbox/` using the Idea template. Ask me to describe the idea — even a single sentence is fine. Don't over-structure it, just get it down.

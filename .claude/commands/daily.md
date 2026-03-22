@@ -1,0 +1,1 @@
+Create or open today's daily note in `Daily/` using the Daily Note template. If it already exists, read it and show me the current tasks and notes. If it doesn't exist, create it and ask me what's on my plate today.
